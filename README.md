@@ -1,6 +1,15 @@
 # 🛠️ My Setup
 
-¡Bienvenidos a mi setup! Aquí te muestro todo el equipo que utilizo en mi día a día para trabajar, crear contenido y disfrutar de una experiencia optimizada. Si estás buscando inspiración para mejorar tu propio espacio, espero que esta lista te sea útil.
+Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme encontrarás links a todos los productos que voy añadiendo. 
+
+## Montando el SetUp
+- [Día 1](https://youtube.com/shorts/jNMs2OLmOxI?si=RBTRdc7rWhqu-JW0)
+- [Día 2]()
+- [Día 3]()
+- [Día 4]()
+- [Día 5]()
+- [Día 6]()
+
 
 ---
 
