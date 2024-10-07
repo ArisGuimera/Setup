@@ -3,12 +3,12 @@
 Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme encontrarás links a todos los productos que voy añadiendo. 
 
 ## Montando el SetUp
-- [Día 1](https://youtube.com/shorts/jNMs2OLmOxI?si=RBTRdc7rWhqu-JW0)
-- [Día 2]()
-- [Día 3]()
-- [Día 4]()
-- [Día 5]()
-- [Día 6]()
+- [Día 1 - Suelos y paredes](https://youtube.com/shorts/jNMs2OLmOxI?si=RBTRdc7rWhqu-JW0)
+- [Día 2 - Luces y techos](https://www.youtube.com/shorts/u5l5CIQ0K9E)
+- [Día 3 - Mesa elevable](https://www.youtube.com/shorts/xkGUbwca1mE)
+- [Día 4 - Cámara y luces](https://www.youtube.com/shorts/paPHfxhRAXQ)
+- [Día 5 - Red](https://www.youtube.com/shorts/u_D1jXHnEjg)
+- [Día 6 - Escritorio]()
 
 
 ---
