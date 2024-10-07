@@ -85,11 +85,14 @@
 
 ## 📲 Enlaces y Contacto
 
-- [Mi página web](https://miweb.com)
-- [Twitter](https://twitter.com/miusuario)
-- [YouTube](https://youtube.com/miusuario)
-- [GitHub](https://github.com/miusuario)
-- [Blog](https://miweb.com/blog)
+- [Mi página web](https://aristi.dev)
+- [Twitter/X](https://twitter.com/aristidevs)
+- [YouTube](https://youtube.com/@AristiDevs)
+- [Instagram](https://www.instagram.com/aristidevs/)
+- [TikTok](https://www.tiktok.com/@aristidevs)
+- [Linkedin](https://www.linkedin.com/in/aristides-guimera-orozco/)
+- [GitHub](https://github.com/ArisGuimera)
+- [Aprende Kotlin](https://cursokotlin.com/)
 
 ---
 
