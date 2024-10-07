@@ -89,6 +89,10 @@ Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme
 
 ### - [**ElGato Stream Deck**](https://amzn.to/3XPBnJk)
    - **¿Por qué me gusta?**: Me permite personalizar accesos directos y controlar mis transmisiones en vivo con facilidad.
+
+### - [**Logitech StreamCam**](https://amzn.to/3ZTgGyU)
+   - Resolución: 1080p a 60 fps
+   - **¿Por qué me gusta?**: Cámara secundaria que utilizo para reuniones o cuando necesito grabar con 2 cámaras a la vez.
    
 ---
 
