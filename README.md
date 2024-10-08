@@ -18,7 +18,8 @@ Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme
 1. [Equipo](#-equipo)
 2. [Mobiliario](#-mobiliario)
 3. [Creación de Contenido](#-creación-de-contenido)
-4. [Enlaces y Contacto](#-enlaces-y-contacto)
+4. [Extras](#-extras)
+5. [Enlaces y Contacto](#-enlaces-y-contacto)
 
 ---
 
@@ -109,6 +110,8 @@ Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme
 
 ### - [**Cargador inalámbrico**](https://amzn.to/3NeGAph)
    - **¿Por qué me gusta?**: Con un solo cable me permite cargar los airpods, el iphone y el apple watch.
+
+---
 
 ## 📲 Enlaces y Contacto
 
