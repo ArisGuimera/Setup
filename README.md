@@ -90,11 +90,25 @@ Estoy convirtiendo mi garaje en el SetUp de programador definitivo y este readme
 ### - [**ElGato Stream Deck**](https://amzn.to/3XPBnJk)
    - **¿Por qué me gusta?**: Me permite personalizar accesos directos y controlar mis transmisiones en vivo con facilidad.
 
+### - [**ElGato Wave Panels**](https://amzn.to/4dFQ1sm)
+   - **¿Por qué me gusta?**:Muy fáciles de instalar y me ayudan con el tema del eco y el sonido ya que estoy en una habitación muy grande.
+
+### - [**ElGato Wall Mount**](https://amzn.to/3Bx1fCa)
+   - **¿Por qué me gusta?**:Te permite quitar la cámara de la mesa o los focos anclándolo a la pared.
+     
 ### - [**Logitech StreamCam**](https://amzn.to/3ZTgGyU)
    - Resolución: 1080p a 60 fps
    - **¿Por qué me gusta?**: Cámara secundaria que utilizo para reuniones o cuando necesito grabar con 2 cámaras a la vez.
    
 ---
+
+## 🛠️ Extras
+
+### - [**Hub USB 3.0**](https://amzn.to/4gYQA3q)
+   - **¿Por qué me gusta?**: Necesito muchísimos puertos USB, estos son 3.0 y además permite añadir una fuente de corriente externa.
+
+### - [**Cargador inalámbrico**](https://amzn.to/3NeGAph)
+   - **¿Por qué me gusta?**: Con un solo cable me permite cargar los airpods, el iphone y el apple watch.
 
 ## 📲 Enlaces y Contacto
 
